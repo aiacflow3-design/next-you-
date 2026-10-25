@@ -1,0 +1,6 @@
+{
+  "name": "NEXT YOU",
+  "description": "سیستم جامع رشد فردی و تحول گام‌به‌گام؛ هر روز، ۱٪ بهتر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
